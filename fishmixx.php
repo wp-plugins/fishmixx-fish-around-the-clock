@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: fishmixx - fish around the clock
-Plugin URI: http://fishmixx.de
+Plugin URI: http://www.fishmixx.de
 Description: Dieses Plugin zeigt den Banner zu fishmixx - fish around the clock in der Sidebar.
-Author: Robert Knauer
-Version: 0.1
-Author URI: http://electronic-help.de
+Author: Robert K.
+Version: 1.0
+Author URI: http://www.browsergame-game.de
 */
 function widget_sidebar ()
 {
