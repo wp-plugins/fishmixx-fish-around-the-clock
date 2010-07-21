@@ -12,7 +12,9 @@ Dieses Plugin zeigt einen Banner für fishmixx - fish around the clock in der Si
 
 fishmixx - fish around the clock ist eine Aktion des Open Music Webradios fishmixx, das nur Musik unter den Creative Commons Lizenzen sendet.
 Es ist eine Sendung über 24 Stunden vom 30.7.2010 um 14 Uhr bis zum 31.7.2010, ebenfalls um 14 Uhr. Es wird viel freie Musik, Gewinnspiele, Gesprächsrunden und noch vieles mehr geben.
-Dieses Plugin ist ein Sidebar-Widget, dass einen Banner für unsere Aktion anzeigt. Jeder Blogger, der es installiert und eine E-Mail an uns sendet, bekommt einen Link auf der Website eines bekannten deutschen Freehoster, [lima-city](https://www.lima-city.de/ "lima-city: kostenloser Webspace") und [unserer Website](http://www.fishmixx.de/ "fishmixx - mixxing the waves") und wird in der 24-Stunden Sendung genannt.
+Dieses Plugin ist ein Sidebar-Widget, dass einen Banner für unsere Aktion anzeigt. Jeder Blogger, der es installiert und eine E-Mail an [info@fishmixx.de](mailto:info@fishmixx.de) sendet, bekommt einen Link auf der Website eines bekannten deutschen Freehoster, [lima-city](https://www.lima-city.de/ "lima-city: kostenloser Webspace") und [unserer Website](http://www.fishmixx.de/ "fishmixx - mixxing the waves") und wird in der 24-Stunden Sendung genannt.
+
+Die E-Mail-Adressen werden natürlich streng vertraulich behandelt und nicht zum Versenden von Werbung, sondern nur für Nachfragen bezüglich der Aktion verwendet.
 
 == Installation ==
 
@@ -26,6 +28,18 @@ Dieses Plugin ist ein Sidebar-Widget, dass einen Banner für unsere Aktion anzei
 = Wieso sollte ich das Plugin installieren? =
 
 Mit diesem Plugin kannst du leicht an neue Leser für deinen Blog kommen und freie Musik unterstützen, indem du uns vielleicht ein paar neue Hörer für die Aktion verschaffst.
+
+= An wen muss ich eine E-Mail schreiben? =
+
+Schreib einfach eine kurze E-Mail an [info@fishmixx.de](mailto:info@fishmixx.de).
+
+= Was bekomme ich dafür? =
+
+Du bekommst einen Link auf der Website eines bekannten deutschen Freehoster, [lima-city](https://www.lima-city.de/ "lima-city: kostenloser Webspace") und [unserer Website](http://www.fishmixx.de/ "fishmixx - mixxing the waves") und wirst in der 24-Stunden Sendung genannt.
+
+= Kann ich euch auch anderweitig unterstützen? =
+
+Klar. Schreib' einfach ein paar Zeilen über uns.
 
 == Screenshots ==
 
