@@ -37,6 +37,12 @@ Mit diesem Plugin kannst du leicht an neue Leser für deinen Blog kommen und fre
 = 1.0 =
 * erste Version
 
+= 1.1 =
+* kleinen Bug behoben
+
+= 1.2 =
+* weiteren kleinen Bug behoben
+
 == Upgrade Notice ==
 
 **nicht nötig, weil es die erste Version ist**
